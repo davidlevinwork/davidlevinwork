@@ -7,7 +7,7 @@
 * 🎓 I'm a Computer Science student (graduating in October 2022)
 * 🎨 I'm a self-taught, continuously searching for greater challenges
 * 🔭 I’m currently working on a [HealthReport App][APP]
-* 🌐 You can see my some of my projects on [my portfolio][projects]
+* 🌐 You can see some of my projects on [my portfolio][projects]
 
 * :rainbow: Fun fact: I have more then 150 skydiving (free-fall parachute jump)
 
@@ -16,9 +16,7 @@
 
 [<img align="left" alt="AlfredDagenais.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="mailto:davidlevin40@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+<a href="mailto:davidlevin40@gmail.com" alt="Contact me">
 
 <br />
 <br />
