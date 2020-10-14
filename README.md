@@ -6,7 +6,7 @@
 ### 📖 About me
 * 🎓 I'm a Computer Science student (graduating in October 2022)
 * 🎨 I'm a self-taught, continuously searching for greater challenges
-* 🔭 I’m currently working on a [HealthReport App][APP]
+* 🔭 I’m currently working on [HealthReport App][APP]
 * 🌐 You can see some of my projects on [my portfolio][projects]
 
 * :rainbow: Fun fact: I have more then 150 skydiving (free-fall parachute jump)
