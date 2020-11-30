@@ -24,7 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidlevinwork)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [website]: https://github.com/davidlevinwork
 [linkedin]: https://www.linkedin.com/in/davidlevin40/
 [gmail]: "mailto:davidlevin40@gmail.com"
