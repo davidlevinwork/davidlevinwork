@@ -26,7 +26,7 @@
 [website]: https://github.com/davidlevinwork
 [linkedin]: https://www.linkedin.com/in/davidlevin40/
 [gmail]: "mailto:davidlevin40@gmail.com"
-[APP]: https://github.com/davidlevinwork/HealthReprt
+[APP]: https://github.com/davidlevinwork/HealthReport
 [projects]: https://github.com/davidlevinwork?tab=repositories
 
 
