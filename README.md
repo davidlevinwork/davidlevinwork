@@ -9,8 +9,6 @@
 * 🔭 I’m currently working on [HealthReport App][APP]
 * 🌐 You can see some of my projects on [my portfolio][projects]
 
-* :rainbow: Fun fact: I have more then 150 skydiving (free-fall parachute jump)
-
 
 ### 📫 Connect with me:
 
