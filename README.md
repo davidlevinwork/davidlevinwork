@@ -1,13 +1,17 @@
-<a href="#"><img width="90%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="150px"/></a>
-
-<h3 align="center">Hey there, I'm David Levin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-
+<p align="center">
+<a href="#"><img width="70%" height="auto" src="https://www.linkpicture.com/q/Logo_16.jpg" height="40%"/></a>
+</p>
 
 ### 📖 About me
-* 🎓 I'm a Computer Science student (graduating in October 2022)
-* 🎨 I'm a self-taught, continuously searching for greater challenges
-* 🔭 I’m currently working on [HealthReport App][APP]
+* 🎓 BSc CS Student 3nd year (graduating in October 2022)
+* 🔭 I'm currently working on improving my understanding of the ML field
 * 🌐 You can see some of my projects on [my portfolio][projects]
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=davidlevinwork&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlevinwork&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <br>
+</p>
 
 
 ### 📫 Connect with me:
@@ -24,7 +28,6 @@
 [website]: https://github.com/davidlevinwork
 [linkedin]: https://www.linkedin.com/in/davidlevin40/
 [gmail]: "mailto:davidlevin40@gmail.com"
-[APP]: https://github.com/davidlevinwork/HealthReport
 [projects]: https://github.com/davidlevinwork?tab=repositories
 
 
