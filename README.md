@@ -1,7 +1,3 @@
-<p align="center">
-<a href="#"><img width="70%" height="auto" src="https://www.linkpicture.com/q/Logo_16.jpg" height="40%"/></a>
-</p>
-
 ### 📖 About me
 * 🎓 BSc CS Student 3rd year (graduating in October 2022)
 * 🔭 I'm currently working on improving my understanding of the ML field
