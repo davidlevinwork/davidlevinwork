@@ -1,6 +1,6 @@
 ### 📖 About me
-* 🎓 BSc CS Student 3rd year (graduating in October 2022)
-* 🔭 I'm currently working on improving my understanding of the ML field
+* 🎓 B.Sc Computer Science graduate from Bar-Ilan University
+* 🔭 Interested in the field of deep learning, especially in the domain adaptation problem
 * 🌐 You can see some of my projects on [my portfolio][projects]
 
 <p align="center">
@@ -24,6 +24,3 @@
 [linkedin]: https://www.linkedin.com/in/davidlevin40/
 [gmail]: "mailto:davidlevin40@gmail.com"
 [projects]: https://github.com/davidlevinwork?tab=repositories
-
-
-
