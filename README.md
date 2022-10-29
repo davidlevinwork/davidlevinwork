@@ -1,6 +1,6 @@
 ### 📖 About me
-* 🎓 B.Sc Computer Science graduate from Bar-Ilan University
-* 🔭 Interested in the field of deep learning, especially in the domain adaptation problem
+* 🎓 B.Sc. Computer Science graduate from Bar-Ilan University
+* 🔭 M.Sc. Electrical Engineering student, with a specialization in Machine Learning
 * 🌐 You can see some of my projects on [my portfolio][projects]
 
 <p align="center">
