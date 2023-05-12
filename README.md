@@ -1,44 +1,48 @@
-## 📖 About me
-* 🎓 B.Sc. Computer Science graduate from Bar-Ilan University
-* 🔭 M.Sc. Electrical Engineering student, with a specialization in Machine Learning
-* 🌐 You can see some of my projects on [my portfolio][projects]
+<p align="center">
+  <img src="Images/logo.png" height="350">
+</p>
 
+## 👨🏽‍💻 About me
+* 🎓 B.Sc. Computer Science graduate from Bar-Ilan University.
+* 🌐 Pursuing a Master's degree in Electrical Engineering, specializing in Information Processing and Data Science.
+* 📖 My Master's research focused on Graph-based Feature Selection models for machine learning applications.
+* ⚡️ Passionate about the world of Artificial Intelligence, particularly Deep Learning and its industrial applications.
 
-## 💻 Tech Stack:
-### 🔨 Languages and Frameworks:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height ="42px" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img align="left" alt=".NET" height ="42px" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"></a>
+## 🔭 Technologies and Tools
 
-<br> <br>
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <br /> 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> &nbsp;&nbsp;&nbsp;
+</p>
 
-### 💾 Database:
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" height ="42px"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" height ="42px"/> </a>
+## 💻 Current project
+[GB-AFS](https://github.com/davidlevinwork/GB-AFS): Graph-Based Automatic Feature Selection for Multi-Class Classification via Mean Simplified Silhouette. </br>
 
-<br> <br>
+Official implementation of the Graph-Based Automatic Feature Selection (GB-AFS) model, a novel filter-based feature selection method for multi-class classification tasks. GB-AFS automatically determines the minimum combination of features required to sustain prediction performance while maintaining complementary discriminating abilities between different classes, without the need for user-defined parameters.
 
-### 🔬 Tools:
-<a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" height ="42px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"></a>
-<a href="https://kubernetes.io/" target="_blank"><img align="left" alt="Kubernetes" height ="42px" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png"></a>
-<a href="https://kafka.apache.org/" target="_blank"> <img align="left" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="kafka" height="42px"/> </a> 
-<a href="https://grafana.com/" target="_blank"><img align="left" alt="Grafana" height ="42px" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png"></a>
-<a href="https://www.databricks.com/" target="_blank"><img align="left" alt="Databricks" height ="42px" src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png"></a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" align="left" alt="postman" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank"><img align="left" alt="flask" height ="42px" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"></a>
-
-<br> <br> 
-
-## 📫 Connect with me:
-
-[<img align="left" alt="AlfredDagenais.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+</br>
+---
+<p>
   
+  [![Github](https://img.shields.io/badge/-My%20Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/davidlevinwork) &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Linkedin Badge](https://img.shields.io/badge/-David%20Levin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidlevin40/)](https://www.linkedin.com/in/davidlevin40) &nbsp;&nbsp;&nbsp;&nbsp;
+  [![Gmail](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davidlevin40@gmail.com)
 
-[website]: https://github.com/davidlevinwork
-[linkedin]: https://www.linkedin.com/in/davidlevin40/
-[projects]: https://github.com/davidlevinwork?tab=repositories
+</p>
