@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="Images/logo.png" height="350">
+  <img src="logo.png" height="300">
 </p>
 
 ## 👨🏽‍💻 About me
-* 🎓 B.Sc. Computer Science graduate from Bar-Ilan University.
-* 🌐 Pursuing a Master's degree in Electrical Engineering, specializing in Information Processing and Data Science.
-* 📖 My Master's research focused on Graph-based Feature Selection models for machine learning applications.
+* 🎓 MSc Electrical Engineering graduate from Bar-Ilan University.
+* 📖 My Master's research focused on Graph-Based Feature Selection Models For Machine Learning Applications.
 * ⚡️ Passionate about the world of Artificial Intelligence, particularly Deep Learning and its industrial applications.
 
 ## 🔭 Technologies and Tools
@@ -33,9 +32,9 @@
 </p>
 
 ## 💻 Current project
-[GB-AFS](https://github.com/davidlevinwork/GB-AFS): Graph-Based Automatic Feature Selection for Multi-Class Classification via Mean Simplified Silhouette. </br>
+[gbfs](https://github.com/davidlevinwork/gbfs): gbfs is a comprehensive repository dedicated to advancing Graph-Based Feature Selection methodologies in machine learning. </br>
 
-Official implementation of the Graph-Based Automatic Feature Selection (GB-AFS) model, a novel filter-based feature selection method for multi-class classification tasks. GB-AFS automatically determines the minimum combination of features required to sustain prediction performance while maintaining complementary discriminating abilities between different classes, without the need for user-defined parameters.
+The project houses two significant contributions to the field: GB-AFS and GB-BC-FS, each developed to address the intricate challenges of feature selection with graph-based solutions.
 
 </br>
 ---
